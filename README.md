@@ -1,12 +1,32 @@
-### "If you're only going to remember one thing, it should be..... Remeber who you are"👋
-<h1 align="center">Hi 👋, I'm Shagun Tiwari</h1>
+<h2>
+  <i>"If you're only going to remember one thing, it should be..... Remember to code "</i>
+  <img src="https://media0.giphy.com/media/4zS4PtMzotQv1jO2ZH/200w.webp?cid=ecf05e473lsx851sudinq6n06pkv4215od2vj5nyefnkefun&rid=200w.webp&ct=s" width="50px"/>
+</h2>
+
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/BferOKonYOspm28AiB/200.webp?cid=ecf05e47jvg5zh4lmj9mfqab1q5bxleq83r1p40h4lqi4466&rid=200.webp&ct=g" width="350" height="270"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/shagun-tiwari-650648206/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.codechef.com/users/shagun_06">
+    <img src="https://img.shields.io/badge/Codechef-yellow?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
+  </a>
+  <a href="https://dev.to/shagun_06">
+    <img src="https://img.shields.io/badge/DEV-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Badge"/>
+  </a>
+  </div>
+</div>
+<h1 align="center">Hello, I'm Shagun Tiwari
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <h3 align="center">A passionate aspiring software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shagun0611&label=Profile%20views&color=0e75b6&style=flat" alt="shagun0611" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shagun0611" alt="shagun0611" /></a> </p>
 
-- 🔭 I’m currently working on **E Commerce Website**
+- 🔭 I’m currently working on modifying **E Commerce Website**
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -25,6 +45,9 @@
 - ⚡ Fun fact **I love catching bugs.**
 
 <h3 align="left">Connect with me:</h3>
+<a href="">
+    <img src="https://img.shields.io/badge/Codechef-yellow?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
+  </a>
 <p align="left">
 </p>
 
