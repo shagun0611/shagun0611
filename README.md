@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shagun0611" alt="shagun0611" /></a> </p>
 
-- 🔭 I’m currently working on **Covid-19 relief website**
+- 🔭 I’m currently working on **E Commerce Website**
 
-- 🌱 I’m currently learning **MEERN Stack**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **some unique project ideas.**
 
