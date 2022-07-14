@@ -44,10 +44,7 @@
 
 - ⚡ Fun fact **I love catching bugs.**
 
-<h3 align="left">Connect with me:</h3>
-<a href="">
-    <img src="https://img.shields.io/badge/Codechef-yellow?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
-  </a>
+
 <p align="left">
 </p>
 
@@ -56,6 +53,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shagun0611&show_icons=true&locale=en&layout=compact" alt="shagun0611" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shagun0611&show_icons=true&locale=en" alt="shagun0611" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shagun0611&" alt="shagun0611" /></p>
