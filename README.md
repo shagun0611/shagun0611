@@ -4,7 +4,7 @@
 </h2>
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/BferOKonYOspm28AiB/200.webp?cid=ecf05e47jvg5zh4lmj9mfqab1q5bxleq83r1p40h4lqi4466&rid=200.webp&ct=g" width="350" height="270"/>
+  <img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" width="400" height="300"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/shagun-tiwari-650648206/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
