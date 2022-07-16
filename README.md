@@ -4,7 +4,7 @@
 </h2>
 
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif" width="400" height="300"/>
+  <img src="https://i.pinimg.com/originals/9d/cb/36/9dcb36579d4518b31451906466dc735d.gif" width="400" height="300"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/shagun-tiwari-650648206/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -51,8 +51,7 @@
 
 - 📫 How to reach me **shaguntiwari0611@gmail.com**
 
-- ⚡ Fun fact **I love catching bugs.**
-
+- ⚡ Fun fact **I love catching bugs.** <img src=" https://cdn.sparkfun.com/assets/home_page_posts/1/4/7/0/femalecodertocat.png">
 
 <p align="left">
 </p>
