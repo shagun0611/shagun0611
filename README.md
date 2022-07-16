@@ -64,7 +64,7 @@
 
 ---
 
-### :chart_with_upwards_trend: My Tech Stats:
+### :chart_with_upwards_trend: My Technical Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shagun0611&show_icons=true&locale=en&layout=compact" alt="shagun0611" /></p>
 
 
