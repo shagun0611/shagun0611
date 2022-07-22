@@ -47,7 +47,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/shagun_06](https://dev.to/shagun_06)
 
-- 💬 Ask me about **react,js,sass,java,python**
+- 💬 Ask me about **React,js,sass,java,python**
 
 - 📫 How to reach me **shaguntiwari0611@gmail.com**
 
