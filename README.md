@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/shagun-tiwari-650648206/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.codechef.com/users/shagun_06">
+  <a href="https://www.codechef.com/users/shagun_0611">
     <img src="https://img.shields.io/badge/Codechef-yellow?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
   </a>
   <a href="https://dev.to/shagun_06">
