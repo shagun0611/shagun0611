@@ -1,5 +1,5 @@
 <h2>
-  <i>"If you're only going to remember one thing, it should be..... Remember to code "</i>
+  <i>" 1st rule of programming: If it works, don't touch it. "</i>
   <img src="https://media0.giphy.com/media/4zS4PtMzotQv1jO2ZH/200w.webp?cid=ecf05e473lsx851sudinq6n06pkv4215od2vj5nyefnkefun&rid=200w.webp&ct=s" width="50px"/>
 </h2>
 
